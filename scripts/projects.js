@@ -28,12 +28,12 @@ class Project {
 const projects = [
     {
         title: "Animation",
-        desc: '<iframe src="https://drive.google.com/file/d/1YtgUVy5__FdF-bvOEYnyDIUbDjouETEO/preview" width="640" height="480" allow="autoplay"></iframe>',
+        desc: '<iframe src="https://drive.google.com/file/d/1YtgUVy5__FdF-bvOEYnyDIUbDjouETEO/preview" allow="autoplay"></iframe>',
         langs: "Java, XML, Firebase", 
     },
     {
         title: "Game Development",
-        desc: '<iframe src="https://drive.google.com/file/d/1KZta4dDIFb2nFG-t1F7hVTdyvcIyvFKg/preview" width="640" height="480" allow="autoplay"></iframe>',
+        desc: '<iframe src="https://drive.google.com/file/d/1KZta4dDIFb2nFG-t1F7hVTdyvcIyvFKg/preview" allow="autoplay"></iframe>',
         langs: "HTML, CSS, Javascript, PHP, MySQL",
     },
     {
