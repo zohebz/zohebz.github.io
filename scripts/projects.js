@@ -27,13 +27,13 @@ class Project {
 }
 const projects = [
     {
-        title: "eMed",
-        desc: "An Android Application which helps doctors to share prescriptions as well as patients to share their medical information via QR Code",
+        title: "Animation",
+        desc: '<iframe src="https://drive.google.com/file/d/1YtgUVy5__FdF-bvOEYnyDIUbDjouETEO/preview" width="640" height="480" allow="autoplay"></iframe>',
         langs: "Java, XML, Firebase", 
     },
     {
-        title: "Hostel Attendance System",
-        desc: "HAS is an web application made for MBCCET, Idukki that can be used to maintain the attendance record of students at hostel and send an SMS to their parents if students are not present.",
+        title: "Game Development",
+        desc: '<iframe src="https://drive.google.com/file/d/1KZta4dDIFb2nFG-t1F7hVTdyvcIyvFKg/preview" width="640" height="480" allow="autoplay"></iframe>',
         langs: "HTML, CSS, Javascript, PHP, MySQL",
     },
     {
