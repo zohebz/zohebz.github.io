@@ -19,6 +19,33 @@ body {
     /* overflow-x: hidden; */
 }
 
+body.a-body {
+    height: auto;
+    overflow: auto;
+}
+html.a-html {
+    height: auto;
+    overflow: auto;
+    position: static;
+}
+
+.vr-background {
+    overflow: hidden;
+}
+
+.vr-container {
+    height: 100vh;
+}
+
+.vr-container .vr-overlay-content {
+    position: absolute;
+    z-index: 1; 
+    pointer-events: none; 
+}
+.vr-overlay-content .action {
+    pointer-events: initial; 
+}
+
 .header-container {
     background-image: url("../assets/me-from-behind-1.jpg");
     background-repeat: no-repeat;

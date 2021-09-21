@@ -7,6 +7,7 @@
     <title>Zoheb | Portfolio</title>
 
     <script src="scripts/helper.js"></script>
+    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
 
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -27,7 +28,7 @@
 </head>
 
 <body>
-    <div class="header-container">
+    <!--<div class="header-container">
         <div class="header">
             <div class="topnav" id="myTopnav">
                 <a href="#home" class="active">
@@ -49,6 +50,42 @@
                 </div>
             </div>
         </div>
+    </div>-->
+
+    
+    <div class=”vr-container”> <!-- container div -->
+        <a-scene class=”vr-background”> <!-- the  a-frame embed code -->
+          <a-entity rotation="0 0 0"> <!-- rotation value sets the starting view point, play around! -->
+    	    <a-animation attribute="rotation" 
+                     dur="600000"
+                     easing="linear"
+                     fill="forwards"
+                     to="0 360 0"
+                     repeat="indefinite"></a-animation> <!-- remove if you don’t like the automatic movement -->
+    	        <a-sky src="your-image-link"></a-sky>
+          </a-entity>
+        </a-scene>
+        <div class="vr-overlay-content">
+            <div class="topnav" id="myTopnav">
+                <a href="#home" class="active">
+                    <div class="name">
+                        <img src="icons/account.svg" alt="acc" class="svg-icon"> Zoheb
+                    </div>
+                </a>
+                <a href="#lang">Skills</a>
+                <a href="#projects">Projects</a>
+                <a href="#contact">Contact</a>
+                <a href="javascript:void(0);" class="icon" onclick="navbar()">
+                    <i class="fa fa-bars"></i>
+                </a>
+            </div>
+            <div class="dp-container" data-aos="fade-down">
+                <div class="profile-title">
+                    <div class="image"></div>
+                    <div class="image-name">Zoheb Zaheer</div>
+                </div>
+            </div>
+        <div>
     </div>
 
     <div id="language-container">
