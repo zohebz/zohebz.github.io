@@ -47,12 +47,12 @@ html.a-html {
 }
 
 .header-container {
-    background-image: url("../assets/me-from-behind-1.jpg");
+    background-image: url("../assets/space_image.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: bottom;
     background-size: cover;
-    border-radius: 0px 0px 100px 100px;
+    border-radius: 0px 0px 0px 0px;
     border-bottom: 3px solid rgba(255, 255, 255, 0.555);
     transition: .7s;
     box-shadow: 0px 2px 15px black;
