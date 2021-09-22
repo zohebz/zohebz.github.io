@@ -37,7 +37,6 @@
         display: none;
     }
     .topnav a.icon {
-        float: right;
         display: block;
     }
 }
@@ -47,9 +46,6 @@
         position: relative;
     }
     .topnav.responsive .icon {
-        position: absolute;
-        right: 0;
-        top: 0;
     }
     .topnav.responsive a {
         float: none;
