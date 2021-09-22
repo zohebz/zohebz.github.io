@@ -142,7 +142,7 @@ margin-right: 10px;
     }
 
     .header-container {
-        border-radius: 0px 0px 210px 450px;
+        border-radius: 0px 0px 0px 0px;
         background-attachment: fixed;
         background-size: 250%;
         background-position: top;
