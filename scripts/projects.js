@@ -37,18 +37,18 @@ const projects = [
         langs: "HTML, CSS, Javascript, PHP, MySQL",
     },
     {
-        title: "MBC Scholarship Exam",
-        desc: "An online examination portal that was build for MBCCET, Idukki to conduct Scholarship exam for the student looking for B.Tech in 2020",
+        title: "Electric Scooter",
+        desc: '<iframe src="https://drive.google.com/file/d/1XsQwEzFmROBpFrI0yZarkV4CQeItBv9h/preview" allow="autoplay"></iframe>',
         langs: "HTML, CSS, Javascript, PHP, MySQL",
     },
     {
-        title: "Te Amo",
-        desc: "Te Amo is a chat application that for Android and iOS which has a innovative UI (atleast thats what I say) and almost all basic features of a Chat Application. It is still under-development and has enough bugs for all the release versions",
+        title: "Robotics",
+        desc: '<iframe src="https://drive.google.com/file/d/1Y5riaIlv_-yvCOSclkv3LDHTQ47peZTR/preview" allow="autoplay"></iframe>',
         langs: "Dart, Node.js, Firebase",
     },
     {
-        title: "Dr MED",
-        desc: "Dr MED is an Android application made for those who are in need of Medical Assistance from health experts. The app includes chatting with expert, health tips, reporting adverse drug issues and online medical courses",
+        title: "Virtual Reality",
+        desc: '<iframe src="https://drive.google.com/file/d/1yg-Qg9PFjuvU5TmOLCeflU4BwL9XbJWz/preview" allow="autoplay"></iframe>',
         langs: "Dart, Node.js, Fireabse",
     }
 ]
