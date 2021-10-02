@@ -17,7 +17,7 @@ class Project {
                 ${this.description}
             </div>
             <div class="languages-used">
-                <div class="lang-attr"> Languages : &nbsp;</div>
+                <div class="lang-attr"> Description : &nbsp;</div>
                 <div class="lang-value"> ${this.languagesUsed} </div>
             </div>
         `;
@@ -29,27 +29,27 @@ const projects = [
     {
         title: "Animation",
         desc: '<iframe src="https://drive.google.com/file/d/1YtgUVy5__FdF-bvOEYnyDIUbDjouETEO/preview" allow="autoplay"></iframe>',
-        langs: "Java, XML, Firebase", 
+        langs: "Description", 
     },
     {
         title: "Game Development",
         desc: '<iframe src="https://drive.google.com/file/d/1KZta4dDIFb2nFG-t1F7hVTdyvcIyvFKg/preview" allow="autoplay"></iframe>',
-        langs: "HTML, CSS, Javascript, PHP, MySQL",
+        langs: "Description",
     },
     {
         title: "Electric Scooter",
         desc: '<iframe src="https://drive.google.com/file/d/1XsQwEzFmROBpFrI0yZarkV4CQeItBv9h/preview" allow="autoplay"></iframe>',
-        langs: "HTML, CSS, Javascript, PHP, MySQL",
+        langs: "Description",
     },
     {
         title: "Robotics",
         desc: '<iframe src="https://drive.google.com/file/d/1Y5riaIlv_-yvCOSclkv3LDHTQ47peZTR/preview" allow="autoplay"></iframe>',
-        langs: "Dart, Node.js, Firebase",
+        langs: "Description",
     },
     {
         title: "Virtual Reality",
         desc: '<iframe src="https://drive.google.com/file/d/1yg-Qg9PFjuvU5TmOLCeflU4BwL9XbJWz/preview" allow="autoplay"></iframe>',
-        langs: "Dart, Node.js, Fireabse",
+        langs: "Description",
     }
 ]
 
