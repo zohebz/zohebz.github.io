@@ -29,7 +29,7 @@ const projects = [
     {
         title: "Animation",
         desc: '<iframe src="https://drive.google.com/file/d/1YtgUVy5__FdF-bvOEYnyDIUbDjouETEO/preview" allow="autoplay"></iframe>',
-        langs: "Created numerous animation using blender and AutoDesk Maya for designing, visualization and animation purposes. Programming for the animations where done using Python.", 
+        langs: "Created numerous animation using Blender and AutoDesk Maya for designing, visualization and animation purposes. Programming for the animations where done using Python.", 
     },
     {
         title: "Game Development",
