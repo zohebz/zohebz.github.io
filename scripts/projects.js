@@ -44,12 +44,12 @@ const projects = [
     {
         title: "Robotics",
         desc: '<iframe src="https://drive.google.com/file/d/1Y5riaIlv_-yvCOSclkv3LDHTQ47peZTR/preview" allow="autoplay"></iframe>',
-        langs: "Designed and made a 4-wheeled fighting robot for Robo War competition at NIT, Calicut. The robot consists of 4 dc motors, 1 for each wheel and a flipper power by two high torque dc motors. Also have Practical knowledge in designing Robots and programing them using software like ROS (Robot Operating Sytem), GAZEBO Simulator, LEGO NXT and Arduino and Delivered a talk as a resource person on building and programing a robot using LEGO NXT at an IEEE student workshop at TKMCE.",
+        langs: "Designed and made a 4-wheeled fighting robot for Robo War competition at NIT, Calicut. The robot consists of 4 dc motors, 1 for each wheel and a flipper powered by two high torque dc motors. Also have Practical knowledge in designing Robots and programing them using software like ROS (Robot Operating Sytem), GAZEBO Simulator, LEGO NXT and Arduino and Delivered a talk as a resource person on building and programing a robot using LEGO NXT at an IEEE student workshop at TKMCE.",
     },
     {
         title: "Virtual Reality",
         desc: '<iframe src="https://drive.google.com/file/d/1yg-Qg9PFjuvU5TmOLCeflU4BwL9XbJWz/preview" allow="autoplay"></iframe>',
-        langs: "Have develped VR mobile app wich allows person to see and move around in a virtual world. App made using Unity Engine and Blender.",
+        langs: "Have develped VR mobile app which allows a person to see and move around in a virtual world. App made using Unity Engine and Blender.",
     }
 ]
 
