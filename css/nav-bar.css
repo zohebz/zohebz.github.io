@@ -27,8 +27,12 @@
 
 .topnav .icon {
     display: none;
+    transition-duration: 0.8s;
 }
 
+.topnav a:hover {
+    transform: scale(1.2);
+}
 
 /* Media Queries */
 
