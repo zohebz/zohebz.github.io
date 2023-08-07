@@ -30,7 +30,7 @@ var lang = [
         id: "c",
         name: "Programming",
         val: 80,
-        remark: "C++, Javascript, Python, MATLAB, HTML, CSS",
+        remark: "C++, Javascript, Python, MATLAB, HTML, CSS, Typescript, JavaScript, NestJS, Angular JS, React",
         tip: 8 / 10,
     },
     {
