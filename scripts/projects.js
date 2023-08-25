@@ -32,7 +32,7 @@ const projects = [
     {
         title: "Animation",
         desc: '<iframe src="https://drive.google.com/file/d/1YtgUVy5__FdF-bvOEYnyDIUbDjouETEO/preview" allow="autoplay" width="250" height="160"></iframe>',
-        langs: "Created numerous animation using Blender and AutoDesk Maya for designing, visualization and animation purposes. Programming for the animations where done using Python.",
+        langs: "Created numerous animations using Blender and AutoDesk Maya for designing, visualization and animation purposes. Programming for the animations where done using Python.",
         url: "https://zohebz.github.io/animations.html"
     },
     {

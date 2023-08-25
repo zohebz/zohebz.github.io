@@ -56,7 +56,7 @@ var lang = [
     },
     {
         id: "html_css",
-        name: "Virtual Riality",
+        name: "Virtual Reality",
         val: 70,
         remark: "Unity & Blender",
         tip: "7 / 10",
